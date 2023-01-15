@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/thuvienvippromax/static/css/main.9e22dce7.css",
+    "main.js": "/thuvienvippromax/static/js/main.c57051b5.js",
+    "static/media/lg.svg?22t19m": "/thuvienvippromax/static/media/lg.adb7aeef16adb8599e2d.svg",
+    "static/media/lg.woff?22t19m": "/thuvienvippromax/static/media/lg.0add59587d07387b771f.woff",
+    "static/media/lg.ttf?22t19m": "/thuvienvippromax/static/media/lg.a53dcc5ea47fe7d1d9fc.ttf",
+    "index.html": "/thuvienvippromax/index.html",
+    "main.9e22dce7.css.map": "/thuvienvippromax/static/css/main.9e22dce7.css.map",
+    "main.c57051b5.js.map": "/thuvienvippromax/static/js/main.c57051b5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e22dce7.css",
+    "static/js/main.c57051b5.js"
+  ]
+}
